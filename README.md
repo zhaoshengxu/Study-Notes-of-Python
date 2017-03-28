@@ -2,5 +2,33 @@
 1. The repository consists mostly of my study notes of Python. 
 2. These notes may be useful for an newcomer to Python.
 3. **To clarify**, I study Python by following  the learning videos of *Laowang Python*, which is the mian source of the study notes. 
-
+# 主要内容
 本库是我的Python学习笔记，这对刚刚学习Python的新手或许是有用的。需要说明的是，这些学习笔记主要源自*老王Python*系列学习视频，加上自己的一些学习总结，随着学习笔记将不断补充更新。
+
+# 编程三大利器
+### 1. Google：互联网时代，不学编程，搜索也应是必备技能。
+> - 知之为知之，不知Google知
+> - **Google + Wikipedia + English = Almost Everything**
+> - 身处围城，请自行百度蓝灯之类，或者可访问[getlantern](https://github.com/getlantern/forum)
+
+### 2. [Stack Overflow（堆栈溢出）](http://stackoverflow.com/)：Google编程问题，遇见的一直都是他。所以有新闻吐槽到，「计算机编程铁律」将会被正式命名为「Google 一下，然后 Stack Overflow」
+> Stack Overflow 是一个面向程序员的问答网站，2015 年时每天有 760 万的访问量，是当时世界上访问量第 57 位的网站。对在编程中遇到困难的人来说，Stack Overflow 就是庇护所。无论新手还是老手，都把 Stack Overflow 作为一个主要的资源网站。不确定如何解决一个难题？把这个问题放在 Stack Overflow 上。一般来讲，半个小时之内这个问题就会被其他的用户解决（免费）。但切记，如果你不想让你的问题被草草地浏览，请把你的问题写清晰明了。（引自[Stack Overflow 与全民编程时代](http://blog.jobbole.com/110437/)）
+### 3. [Github](https://github.com/)：截止到2015年，GitHub已经有超过九百万注册用户和2110万代码库。事实上已经成为了世界上最大的代码存放网站和开源社区。
+> GitHub除了托管代码功能之外，它也提供了一些协同开发的功能，包括允许追踪其他用户、组织、软件库的动态，对软件代码的改动和bug提出评论等。GitHub也提供了图表功能，用于概观显示开发者们怎样在代码库上工作以及软件的开发活跃程度。（引自[维基百科GitHub](https://zh.wikipedia.org/wiki/GitHub)）
+# [编程四步走](http://blog.jobbole.com/86184/)
+1. 有问题Google一下
+2. 打开Stack Overflow找代码
+3. 复制&粘贴代码
+4. 运行代码
+```
+如果代码不能运行：
+      返回第2步
+否则：返回第1步
+```
+
+# FAQ
+Q：如果找不到代码咋办？
+
+A：不可能，继续找。
+
+(引自[漫画：如何编程？四步走，So easy！](http://blog.jobbole.com/86184/))
