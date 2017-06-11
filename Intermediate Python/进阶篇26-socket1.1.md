@@ -11,7 +11,16 @@
 
 #### 2. netcat小技巧(Unix)
 建立基于tcp/ip的服务端、客户端，比如两人的简单聊天室
+```
+# 分别在Linux中打开两个terminal
+# 1. 服务端
+nc -l 1234 # 生成一个服务端聊天窗口
 
+# 2. 客户端
+nc localhost 1234 # 生成一个服务端聊天窗口
+
+# 联通之后即可相互对话
+```
 #### 3. socket服务端/客户端
 
 ##### 3.1 创建socket对象socket.socket(arg1, arg2)
